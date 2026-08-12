@@ -1,0 +1,12 @@
+{
+  "databases": {
+    "social_metrics": {
+      "tables": {
+        "platform": { "allow": { "id": "root" } },
+        "account": { "allow": { "id": "root" } },
+        "content": { "allow": { "id": "root" } },
+        "engagement_snapshot": { "allow": { "id": "root" } }
+      }
+    }
+  }
+}
